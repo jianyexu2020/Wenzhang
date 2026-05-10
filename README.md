@@ -1,2 +1,2 @@
 # Personal Blog
-This is my Jianye Xu's personal Blog.
+This is Jianye Xu's personal Blog.
